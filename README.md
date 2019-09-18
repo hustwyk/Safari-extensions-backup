@@ -1,4 +1,4 @@
-# Safari-extensions-backup
+# Safari-extensions-collection
 
 Collection of frequently used extensions of Safari on macOS.
 
