@@ -1,12 +1,12 @@
 # Safari-extensions-backup
 
-Collect the frequently used extensions of Safari on macOS.
+Collection of frequently used extensions of Safari on macOS.
 
 ## Background
 
 One day in Sep 2019, the specific date cannot be remembered, my safari on mac cannot download extensions via webpage, it was forced to jump to AppStore.app, and I found my wanted extension not in there, so I planed to collect them here, and they can be successfully installed manually.
 
-## Extensions collected
+## Extensions collection
 
 | Name | Version|  Effect |
 | - | :-: | - |
